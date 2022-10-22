@@ -1,0 +1,7 @@
+Indian History,___ was the capital of Kosala.,Sravasti
+Indian History, A Janapadin was the Ruler of a ____.,Janapada
+Indian Geogrophy,The river Narmada is originate from _____.,A,amarkantak
+Technology,FAX stands for ____ Away Xerox,Far
+Technology,IPv6 Internet Protocol address is represented as eight groups of four ____ digits.,Hexadecimal
+Indian Geogrophy,____ river has the largest river basin in India.,The Ganga
+Indian Geogrophy,The highest peak in the Eastern Ghats is ____,Mahendragiri

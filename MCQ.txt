@@ -1,0 +1,9 @@
+Indian Geogrophy,MCQ Ques 1 The state having a largest area of forest cover in India is,Arunachal Pradesh,Haryana,Madhya Pradesh,Assam,Madhya Pradesh
+Technology,MCQ Ques 2 What is part of a database that holds only one type of information?,Report,Field,Record,File,Field
+Indian Geogrophy,MCQ Ques 3 Which of the following food grain crops occupies the largest part of the cropped area in India?,Barley and maize,Jowar and bajra,Rice,Wheat,Rice
+Technology,MCQ Ques 4 'OS' computer abbreviation usually means ?,Order of Significance,Open Software,Operating System,Optical SensorPhy,Operating System
+Technology,MCQ Ques 5 What frequency range is the High Frequency band?,100 kHz,1 GHz,30 to 300 MHz,3 to 30 MHz,3 to 30 MHz
+Indian History,MCQ Ques 6  The Battle of Plassey was fought in,1757,1782,1748,1764,1757
+Indian Geogrophy,MCQ Ques 7  A landmass bounded by sea on three sides is referred to as,Coast,Peninsula,Island,None of the above,Peninsula
+Indian History,MCQ  The territory of Porus who offered strong resistance to Alexander was situated between the rivers of,Sutlej and Beas,Jhelum and Chenab,Ravi and Chenab,Ganga and Yamuna,Jhelum and Chenab
+Indian History,MCQ Ques 9 To which king belongs the Lion capital at Sarnath?,Chandragupta,Ashoka,Kanishka,Harsha,Ashoka
