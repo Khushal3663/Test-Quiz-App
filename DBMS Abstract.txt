@@ -1,4 +1,0 @@
-Abstract
-Abstract may have more than one paragraph giving an overview of what problem has been taken with an cover introduction to the broader area of spectrum, importance, proposed approach and results/ performance obtained. Use 1.5 line spacing. Use font Times New Roman size 11 and 1.5 line spacing throughout the text of the report.
-All titles should start on the first line of the page without giving any space. Margin layout should be Top, bottom, left and right: 1” margin. No indents for the paragraphs written throughout the report. Always justify the contents. 
-Page numbers starting from ‘(ii)’ with middle of the page setting has to be given from abstract onwards. No numbering should be given for certificate. Number size is 11, times new roman.
